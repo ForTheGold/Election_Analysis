@@ -39,6 +39,8 @@ A program has been completed that takes in all of the data, counts up the total 
 	* Winning Vote Count: 272,892
 	* Winning Percentage: 73.8%
 
+![Election Results](https://github.com/ForTheGold/Election_Analysis/tree/main/Resources/election_results.png)
+
 ## Summary
 
 This script has been used successfully for one election, but this is not the end of what can be done with it.  With minor modifications, this script can be used to tally the votes of a wide variety of different elections.  The simplest and easiest thing would be to use this script in another congressional district, but it could also be expanded to elections of senators or local politicians as well.
