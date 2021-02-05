@@ -39,7 +39,7 @@ A program has been completed that takes in all of the data, counts up the total 
 	* Winning Vote Count: 272,892
 	* Winning Percentage: 73.8%
 
-![Election Results](https://github.com/ForTheGold/Election_Analysis/tree/main/Resources/election_results.png)
+![Election Results](https://github.com/ForTheGold/Election_Analysis/blob/main/Resources/election_results.png)
 
 ## Summary
 
